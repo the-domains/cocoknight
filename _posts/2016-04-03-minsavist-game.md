@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: MINSAVIST Game
-datePublished: '2016-04-03T20:22:32.245Z'
-dateModified: '2016-04-03T18:56:27.448Z'
-title: ''
+description: ''
+datePublished: '2016-04-03T21:29:01.327Z'
+dateModified: '2016-04-03T21:24:04.483Z'
+title: MINSAVIST Game
 author: []
+sourcePath: _posts/2016-04-03-minsavist-game.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-minsavist-game.md
-published: true
 url: minsavist-game/index.html
 _type: Article
 
