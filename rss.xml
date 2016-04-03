@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[coCoKNIght]]></title>
         <description><![CDATA[coCoKNIght]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 20:22:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 20:22:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b352b29-b09a-4228-952c-793b5b943f22.png">]]></description>
+            <link>https://thegrid.ai/cocoknight/say-hello-to-critter-one-critters-are-palm-size-robot-like/index.html</link>
+            <guid isPermaLink="false">e0ce6160-85fc-453f-91b3-3dc7a958567d</guid>
+            <pubDate>Sun, 03 Apr 2016 20:22:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://youtu.be/MgMFVkz1_O4</p>]]></description>
-            <link>undefinedhttpsyoutubemgmfvkz1_o4/index.html</link>
+            <link>https://thegrid.ai/cocoknight/httpsyoutubemgmfvkz1_o4/index.html</link>
             <guid isPermaLink="false">6796409c-49d5-4a51-a433-68fa7564d369</guid>
             <pubDate>Sun, 03 Apr 2016 20:22:31 GMT</pubDate>
         </item>
