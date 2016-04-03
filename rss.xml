@@ -4,22 +4,8 @@
         <description><![CDATA[coCoKNIght]]></description>
         <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 20:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 20:23:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>MINSAVIST Game</p>]]></description>
-            <link>https://thegrid.ai/cocoknight/minsavist-game/index.html</link>
-            <guid isPermaLink="false">2abeb3de-3b2c-449b-bbd7-2fa7e9a17f6d</guid>
-            <pubDate>Sun, 03 Apr 2016 20:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>For the Raiffeisen annual report 2013 and 2014 by coUNDco I was responsible for creating the 3D art and 3D animations.</p>]]></description>
-            <link>https://thegrid.ai/cocoknight/for-the-raiffeisen-annual-report-2013-and-2014-by-coundco-i/index.html</link>
-            <guid isPermaLink="false">557f9a40-0a80-4e60-a600-874ec73e4905</guid>
-            <pubDate>Sun, 03 Apr 2016 20:22:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c563e692-55b3-47ce-a912-4aa2df9f4542.png">]]></description>
@@ -78,6 +64,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b352b29-b09a-4228-952c-793b5b943f22.png">]]></description>
             <link>https://thegrid.ai/cocoknight/say-hello-to-critter-one-critters-are-palm-size-robot-like/index.html</link>
             <guid isPermaLink="false">e0ce6160-85fc-453f-91b3-3dc7a958567d</guid>
+            <pubDate>Sun, 03 Apr 2016 20:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/MgMFVkz1_O4</p>]]></description>
+            <link>https://thegrid.ai/cocoknight/httpsyoutubemgmfvkz1_o4/index.html</link>
+            <guid isPermaLink="false">6796409c-49d5-4a51-a433-68fa7564d369</guid>
             <pubDate>Sun, 03 Apr 2016 20:22:31 GMT</pubDate>
         </item>
     </channel>
