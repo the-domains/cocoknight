@@ -4,8 +4,15 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 23:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 23:03:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Overdue - Animation of a CD case visualisation]]></title>
+            <description><![CDATA[<article><h1>Overdue - Animation of a CD case visualisation</h1><p>Can your CD case do that kind of moves? :-)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5393af5b2cdaa02eeb9a327d422915bd3e0ac0.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=e4sSHTnN4_8</link>
+            <guid isPermaLink="false">dbc51926-e2f7-4d16-b9c5-2a25e5962b67</guid>
+            <pubDate>Sun, 03 Apr 2016 23:03:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overdue]]></title>
             <description><![CDATA[<article><h1>Overdue</h1><p>https://youtu.be/e4sSHTnN4_8</p></article>]]></description>
@@ -72,13 +79,6 @@
             <link>https://thegrid.ai/cocoknight/new-version-of-my-origami-frog-animation-presented-to-you-as/index.html</link>
             <guid isPermaLink="false">7ce6165d-51c3-47bd-b871-9fb9bb0e2420</guid>
             <pubDate>Sun, 03 Apr 2016 20:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SUGUS Game]]></title>
-            <description><![CDATA[<article><h1>SUGUS Game</h1><p>https://youtu.be/oUMVqvOzAs0</p></article>]]></description>
-            <link>https://thegrid.ai/cocoknight/httpsyoutubeoumvqvozas0/index.html</link>
-            <guid isPermaLink="false">547c0d79-d952-48eb-b19a-a3a86487c53d</guid>
-            <pubDate>Sun, 03 Apr 2016 21:29:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
