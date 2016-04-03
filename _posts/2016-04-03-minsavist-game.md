@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T21:29:01.327Z'
-dateModified: '2016-04-03T21:24:04.483Z'
+datePublished: '2016-04-03T21:38:51.549Z'
+dateModified: '2016-04-03T21:38:12.064Z'
 title: MINSAVIST Game
 author: []
 sourcePath: _posts/2016-04-03-minsavist-game.md
