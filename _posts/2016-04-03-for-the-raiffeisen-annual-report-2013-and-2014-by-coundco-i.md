@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://youtu.be/5Br4tLow9qk'
-datePublished: '2016-04-03T21:18:42.386Z'
-dateModified: '2016-04-03T21:18:31.381Z'
+description: "For the\_Raiffeisen annual report\_2013 and 2014 by\_coUNDco\_I was responsible for creating the 3D art and 3D animations."
+datePublished: '2016-04-03T21:28:51.455Z'
+dateModified: '2016-04-03T21:28:50.888Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-for-the-raiffeisen-annual-report-2013-and-2014-by-coundco-i.md
