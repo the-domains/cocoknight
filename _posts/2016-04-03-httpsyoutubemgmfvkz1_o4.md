@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/MgMFVkz1_O4'
-datePublished: '2016-04-03T20:22:31.561Z'
-dateModified: '2016-04-03T20:18:22.927Z'
+datePublished: '2016-04-03T21:29:27.926Z'
+dateModified: '2016-04-03T21:24:52.917Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
-published: true
 url: httpsyoutubemgmfvkz1_o4/index.html
 _type: Article
 
