@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "How wonderful to see your 3D creations take on shape in real life. And how fitting. This elegant silver pendant was my gift to my wife in honor of the birth of our child Oliver. It has the form of a pregnant belly. Inside it's hollow with the letters O L I V E R engraved in the shape of the belly."
-datePublished: '2016-04-03T20:48:37.858Z'
-dateModified: '2016-04-03T20:48:28.398Z'
+datePublished: '2016-04-03T21:28:39.613Z'
+dateModified: '2016-04-03T21:28:39.039Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-how-wonderful-to-see-your-3d-creations-take-on-shape-in-real.md
