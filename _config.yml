@@ -1,7 +1,7 @@
 name: coCoKNIght
 favicon: null
-layout_spectrum: 0.4374482159037143
-typography_spectrum: 0.145338294794783
+layout_spectrum: 0.61876
+typography_spectrum: 0.66317
 title: Online Portfolio of Fabian Hernandez
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.3248257553204894
-  lightness: 0.43356667924672365
-  saturation: 0.2344422754831612
-  rhythmicContrast: 0.0009947794023901224
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
