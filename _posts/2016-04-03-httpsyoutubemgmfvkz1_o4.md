@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/MgMFVkz1_O4'
-datePublished: '2016-04-05T10:00:04.924Z'
-dateModified: '2016-04-04T07:01:32.213Z'
+datePublished: '2016-04-05T10:00:39.273Z'
+dateModified: '2016-04-05T10:00:34.109Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 https://youtu.be/MgMFVkz1\_O4
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b186ac4a-e23d-4c83-a294-d37db895a1fb.png)
 
 I created these three models to apply for a vacancy I had found at the website of [Jagex][0] where applicants were required to complete this test.
 
@@ -36,6 +37,5 @@ My models ended up having 244 tris for the melee weapon, 440 tris for the booksh
 All models were created with Wings3D, unwrapping was done with Blender. I then proceeded to 3D-paint the troll and the weapon from inside Blender. Gimp was used for minor adjustments to the textures and to create the texture for the bookshelf.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f70d4ac-a886-4d5d-b97e-b202f83c1aa6.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92a4657c-516e-4e3e-bed8-c5347badf2fe.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b186ac4a-e23d-4c83-a294-d37db895a1fb.png)
 
 [0]: http://jagex.com/
