@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/MgMFVkz1_O4'
-datePublished: '2016-04-05T10:47:14.220Z'
-dateModified: '2016-04-05T10:46:56.785Z'
+datePublished: '2016-04-05T10:48:14.095Z'
+dateModified: '2016-04-05T10:48:02.975Z'
 title: Game assets
 author: []
 sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
