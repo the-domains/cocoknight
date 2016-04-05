@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/e4sSHTnN4_8'
-datePublished: '2016-04-05T10:00:01.954Z'
-dateModified: '2016-04-03T22:49:42.803Z'
+datePublished: '2016-04-05T10:09:58.176Z'
+dateModified: '2016-04-05T10:09:57.734Z'
 title: Overdue
 author: []
 sourcePath: _posts/2016-04-03-this-is-the-culmination-of-a-collaborative-project-with-izar.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: this-is-the-culmination-of-a-collaborative-project-with-izar/index.html
-_type: Article
+_type: Blurb
 
 ---
 [https://youtu.be/e4sSHTnN4\_8][0]
