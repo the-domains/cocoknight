@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "A previsualisation solution for CD designers which I made for\_Izaradesign\_with\_Blender."
-datePublished: '2016-04-03T20:22:31.656Z'
-dateModified: '2016-04-03T20:21:01.873Z'
+datePublished: '2016-04-05T10:09:53.000Z'
+dateModified: '2016-04-05T10:06:08.374Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-a-previsualisation-solution-for-cd-designers-which-i-made-fo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-a-previsualisation-solution-for-cd-designers-which-i-made-fo.md
-published: true
-url: a-previsualisation-solution-for-cd-designers-which-i-made-fo/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98abfba-9299-4dfb-86fd-41cd1387a516.png)
