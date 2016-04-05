@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "For the\_Raiffeisen annual report\_2013 and 2014 by\_coUNDco\_I was responsible for creating the 3D art and 3D animations."
-datePublished: '2016-04-03T21:28:51.455Z'
-dateModified: '2016-04-03T21:28:50.888Z'
+datePublished: '2016-04-05T10:07:18.757Z'
+dateModified: '2016-04-05T10:06:56.473Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-for-the-raiffeisen-annual-report-2013-and-2014-by-coundco-i.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: for-the-raiffeisen-annual-report-2013-and-2014-by-coundco-i/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e8f919a-4b06-45af-9187-7744acc3491e.jpg)
