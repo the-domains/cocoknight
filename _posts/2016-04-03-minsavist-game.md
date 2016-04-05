@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-03T21:38:51.549Z'
-dateModified: '2016-04-03T21:38:12.064Z'
+datePublished: '2016-04-05T10:10:04.472Z'
+dateModified: '2016-04-05T10:08:04.889Z'
 title: MINSAVIST Game
 author: []
 sourcePath: _posts/2016-04-03-minsavist-game.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: minsavist-game/index.html
-_type: Article
+_type: Blurb
 
 ---
 MINSAVIST Game
