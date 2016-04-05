@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/MgMFVkz1_O4'
-datePublished: '2016-04-05T10:00:39.273Z'
-dateModified: '2016-04-05T10:00:34.109Z'
+datePublished: '2016-04-05T10:03:53.689Z'
+dateModified: '2016-04-05T10:03:50.591Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: httpsyoutubemgmfvkz1_o4/index.html
-_type: Article
+_type: Blurb
 
 ---
 https://youtu.be/MgMFVkz1\_O4
