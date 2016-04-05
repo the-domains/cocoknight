@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/oUMVqvOzAs0'
-datePublished: '2016-04-03T21:29:10.465Z'
-dateModified: '2016-04-03T21:14:11.136Z'
+datePublished: '2016-04-05T10:09:59.851Z'
+dateModified: '2016-04-05T10:06:41.175Z'
 title: SUGUS Game
 author: []
 sourcePath: _posts/2016-04-03-httpsyoutubeoumvqvozas0.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: httpsyoutubeoumvqvozas0/index.html
-_type: Article
+_type: Blurb
 
 ---
 [https://youtu.be/][0]oUMVqvOzAs0
