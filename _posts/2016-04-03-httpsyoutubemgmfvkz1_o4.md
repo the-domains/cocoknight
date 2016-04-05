@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/MgMFVkz1_O4'
-datePublished: '2016-04-05T10:46:22.178Z'
-dateModified: '2016-04-05T10:45:51.136Z'
+datePublished: '2016-04-05T10:47:14.220Z'
+dateModified: '2016-04-05T10:46:56.785Z'
 title: Game assets
 author: []
 sourcePath: _posts/2016-04-03-httpsyoutubemgmfvkz1_o4.md
@@ -22,8 +22,9 @@ publisher:
 _type: Blurb
 
 ---
-https://youtu.be/MgMFVkz1\_O4
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b186ac4a-e23d-4c83-a294-d37db895a1fb.png)
+
+https://youtu.be/MgMFVkz1\_O4
 
 I created these three models to apply for a vacancy I had found at the website of [Jagex][0] where applicants were required to complete this test.
 
