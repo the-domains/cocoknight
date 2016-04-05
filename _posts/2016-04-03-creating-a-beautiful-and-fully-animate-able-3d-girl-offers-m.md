@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, but that is rather"
-datePublished: '2016-04-03T20:22:32.204Z'
-dateModified: '2016-04-03T19:25:42.039Z'
-title: ''
+description: "Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, and that is easy to animate for all purposes."
+datePublished: '2016-04-05T10:10:16.466Z'
+dateModified: '2016-04-05T10:07:49.993Z'
+title: Girl
 author: []
+sourcePath: _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
-published: true
-url: creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91b3cb81-b54c-4c1d-b3ea-d4d540f4b914.png)
