@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Fabian Hernandez
-    url: 'https://www.youtube.com/user/cocoknightcom'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=e4sSHTnN4_8'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - dantdm
   - cynical44
 description: 'Can your CD case do that kind of moves? :-)'
-inLanguage: en
+datePublished: '2016-04-05T09:59:45.452Z'
+dateModified: '2016-04-05T09:59:45.051Z'
+author:
+  - name: Fabian Hernandez
+    url: 'https://www.youtube.com/user/cocoknightcom'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=e4sSHTnN4_8&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=e4sSHTnN4_8'
 title: Overdue - Animation of a CD case visualisation
-datePublished: '2016-04-03T23:03:38.018Z'
-dateModified: '2016-04-03T20:51:12.110Z'
 sourcePath: _posts/2016-04-03-overdue-animation-of-a-cd-case-visualisation.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
