@@ -4,8 +4,15 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 07:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 07:12:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CD Case Previsualisation]]></title>
+            <description><![CDATA[<article><h1>CD Case Previsualisation</h1><p>A previsualisation solution for CD designers which I made for Izaradesign with Blender.</p></article>]]></description>
+            <link>https://thegrid.ai/cocoknight/cd-case-previsualisation/index.html</link>
+            <guid isPermaLink="false">b5cd5520-67df-4681-b271-5b0bea0324f2</guid>
+            <pubDate>Fri, 08 Apr 2016 07:11:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Health and safety x-ray machine 3D]]></title>
             <description><![CDATA[<article><h1>Health and safety x-ray machine 3D</h1><p>3D scene for an educational movie about health and safety</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62a220b8fcab4e4d4b5f5dc1f21d1f2cb1f6188f.jpg"></article>]]></description>
