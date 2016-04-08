@@ -4,8 +4,15 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 08:02:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 09:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Girl]]></title>
+            <description><![CDATA[<article><h1>Girl</h1><p>Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, and that is easy to animate for all purposes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c563e692-55b3-47ce-a912-4aa2df9f4542.png"></article>]]></description>
+            <link>https://thegrid.ai/cocoknight/girl/index.html</link>
+            <guid isPermaLink="false">a826fbe4-f878-462a-ae12-4023bd5ed65e</guid>
+            <pubDate>Fri, 08 Apr 2016 09:00:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CD Case Previsualisation]]></title>
             <description><![CDATA[<article><h1>CD Case Previsualisation</h1><p>A previsualisation solution for CD designers which I made for Izaradesign with Blender.</p></article>]]></description>
