@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Fabian Hernandez
-    url: 'https://www.youtube.com/user/cocoknightcom'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=TdbbVXR5hzk&feature=youtu.be'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - views
@@ -21,7 +17,13 @@ keywords:
   - crynight
   - sfm
 description: Ultra short post-apocalyptic sci-fi 3D animation
-inLanguage: en
+datePublished: '2016-04-08T08:02:53.584Z'
+dateModified: '2016-04-08T08:02:53.051Z'
+author:
+  - name: Fabian Hernandez
+    url: 'https://www.youtube.com/user/cocoknightcom'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TdbbVXR5hzk&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=TdbbVXR5hzk&feature=youtu.be'
 title: No Survivors
-datePublished: '2016-04-05T17:51:26.592Z'
-dateModified: '2016-04-05T17:50:50.343Z'
 sourcePath: _posts/2016-04-05-no-survivors.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
