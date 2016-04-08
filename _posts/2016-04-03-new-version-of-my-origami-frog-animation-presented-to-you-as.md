@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: New version of my Origami Frog animation presented to you as a never ending GIF loop. Enjoy.
-datePublished: '2016-04-05T11:20:44.623Z'
-dateModified: '2016-04-05T11:20:15.461Z'
+datePublished: '2016-04-08T17:51:08.776Z'
+dateModified: '2016-04-08T17:51:05.242Z'
 title: Origami Frog
 author: []
 sourcePath: _posts/2016-04-03-new-version-of-my-origami-frog-animation-presented-to-you-as.md
