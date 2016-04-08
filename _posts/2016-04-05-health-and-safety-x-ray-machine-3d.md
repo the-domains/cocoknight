@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=P7_YYcrGeGY&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
+description: 3D scene for an educational movie about health and safety
+datePublished: '2016-04-08T08:02:30.304Z'
+dateModified: '2016-04-08T08:02:24.163Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 3D scene for an educational movie about health and safety
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=P7_YYcrGeGY&feature=youtu.be'
 title: Health and safety x-ray machine 3D
-datePublished: '2016-04-05T18:13:50.955Z'
-dateModified: '2016-04-05T17:59:05.993Z'
 sourcePath: _posts/2016-04-05-health-and-safety-x-ray-machine-3d.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
