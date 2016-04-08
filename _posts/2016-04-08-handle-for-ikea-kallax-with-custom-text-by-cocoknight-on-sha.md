@@ -17,8 +17,8 @@ keywords:
   - beta
   - slight
 description: 'Handle for IKEA Kallax with custom text (FDTZ2T6WS) by cocoknight on Shapeways. Learn more before you buy, or discover other cool products in Accessories.'
-datePublished: '2016-04-08T19:53:43.829Z'
-dateModified: '2016-04-08T19:53:40.368Z'
+datePublished: '2016-04-08T20:28:06.586Z'
+dateModified: '2016-04-08T20:26:05.564Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Handle for IKEA Kallax with custom text by cocoknight on Shapeways</h1><p>Handle for IKEA Kallax with your custom text printed just for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cc06fc10159defb37f796dd895495063211cfc3.jpg" /></article>
+<article style=""><h1>Handle for IKEA Kallax with custom text by cocoknight on Shapeways</h1><p>Handle for IKEA Kallax with custom embossed text printed just for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cc06fc10159defb37f796dd895495063211cfc3.jpg" /></article>
