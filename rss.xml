@@ -4,7 +4,7 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>https://thegrid.ai/cocoknight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 17:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 17:35:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[minsavist Alpha Gameplay]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=rgJn7GnguLQ</link>
             <guid isPermaLink="false">30203a1f-ebb4-4f17-9e50-9dbd6a6eabe3</guid>
             <pubDate>Fri, 08 Apr 2016 17:34:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vertrauen, das Jahr für Jahr wächst]]></title>
+            <description><![CDATA[<article><h1>Vertrauen, das Jahr für Jahr wächst</h1><p>For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b429ea8f3716b570772daf3f764aa3591b7f5a05.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=QjeyDRcQZMs&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">8307c38b-ec10-48d5-8119-b6da04c49870</guid>
+            <pubDate>Fri, 08 Apr 2016 17:34:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Enge Verbindungen machen stark]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=TdbbVXR5hzk&amp;feature=youtu.be</link>
             <guid isPermaLink="false">ba8636bc-f735-4593-9aa5-b92570a53c41</guid>
             <pubDate>Fri, 08 Apr 2016 08:02:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Health and safety x-ray machine 3D]]></title>
-            <description><![CDATA[<article><h1>Health and safety x-ray machine 3D</h1><p>3D scene for an educational movie about health and safety</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62a220b8fcab4e4d4b5f5dc1f21d1f2cb1f6188f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=P7_YYcrGeGY&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">217866e7-99a7-4500-9df4-96ed5d469819</guid>
-            <pubDate>Fri, 08 Apr 2016 08:02:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
