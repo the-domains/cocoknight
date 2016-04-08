@@ -17,8 +17,8 @@ keywords:
   - finish
   - feel
 description: 'Black Magic Wand (KCV6L6PA4) by cocoknight on Shapeways. Learn more before you buy, or discover other cool products in Toys.'
-datePublished: '2016-04-08T19:58:18.261Z'
-dateModified: '2016-04-08T19:58:07.954Z'
+datePublished: '2016-04-08T20:03:03.420Z'
+dateModified: '2016-04-08T20:02:56.485Z'
 author: []
 related: []
 app_links: []
