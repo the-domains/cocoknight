@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Say hello to Critter One.\_Critters are palm-size robot-like toys. Their main purpose is to be cute."
-datePublished: '2016-04-08T08:11:19.669Z'
-dateModified: '2016-04-08T08:11:14.313Z'
+datePublished: '2016-04-08T17:53:39.747Z'
+dateModified: '2016-04-08T17:53:36.237Z'
 title: Critter One
 author: []
 sourcePath: _posts/2016-04-03-say-hello-to-critter-one-critters-are-palm-size-robot-like.md
