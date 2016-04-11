@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=F2dK4Csu4BE&feature=youtu.be'
 inLanguage: de
 starred: false
 keywords: []
-description: 'Das Genossenschaftsmodell von Raiffeisen überzeugt durch Unternehmertum, denn jede der über 300 Raiffeisenbanken handelt als genossenschaftlich organisiertes KMU autonom. Diese Struktur führt zu Stabilität: Alle Banken, die in der Raiffeisen Gruppe vereint sind, haften solidarisch. Raiffeisenbanken sind regional verankert und kennen die lokalen Marktverhältnisse bestens. Bestechende Argumente!'
-datePublished: '2016-04-08T17:34:56.306Z'
-dateModified: '2016-04-08T17:34:53.719Z'
+description: For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:24:18.859Z'
+dateModified: '2016-04-11T14:50:21.986Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Die Genossenschaft als idealer Nährboden
+sourcePath: _posts/2016-04-08-die-genossenschaft-als-idealer-nahrboden.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-08-die-genossenschaft-als-idealer-nahrboden.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
