@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=5Br4tLow9qk&feature=youtu.be'
 inLanguage: null
 starred: false
 keywords: []
-description: Uploaded by Raiffeisen Schweiz Genossenschaft on 2014-12-19.
-datePublished: '2016-04-08T17:34:53.729Z'
-dateModified: '2016-04-08T09:04:20.315Z'
+description: For the Raiffeisen annual report 2014 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:23:53.082Z'
+dateModified: '2016-04-11T14:51:37.156Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: Raiffeisen Geschäftsbericht 2014
+sourcePath: _posts/2016-04-08-raiffeisen-geschaftsbericht-2014.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-08-raiffeisen-geschaftsbericht-2014.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
