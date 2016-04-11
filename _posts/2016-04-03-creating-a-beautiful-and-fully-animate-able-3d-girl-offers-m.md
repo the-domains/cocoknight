@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, and that is easy to animate for all purposes."
-datePublished: '2016-04-08T09:00:08.400Z'
-dateModified: '2016-04-08T09:00:03.617Z'
+datePublished: '2016-04-11T15:22:44.274Z'
+dateModified: '2016-04-11T14:32:17.081Z'
 title: Girl
 author: []
 sourcePath: _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
