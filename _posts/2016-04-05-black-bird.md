@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=lA-Z3Z57XRA&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
+description: Game Asset demonstration
+datePublished: '2016-04-11T15:42:38.332Z'
+dateModified: '2016-04-11T15:39:09.878Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Game Asset demonstration
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=lA-Z3Z57XRA&feature=youtu.be'
 title: Black Bird
-datePublished: '2016-04-05T11:56:58.304Z'
-dateModified: '2016-04-05T11:55:19.651Z'
 sourcePath: _posts/2016-04-05-black-bird.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
