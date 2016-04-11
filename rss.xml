@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></title>
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
-        <link>https://thegrid.ai/cocoknight/</link>
+        <link>http://cocoknight.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 20:28:21 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/cocoknight/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 15:24:07 GMT</lastBuildDate>
+        <atom:link href="http://cocoknight.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CD Case Previsualisation]]></title>
+            <description><![CDATA[<article><h1>CD Case Previsualisation</h1><p>A previsualisation solution for CD designers which I made for Izaradesign with Blender.</p></article>]]></description>
+            <link>http://cocoknight.com/cd-case-previsualisation/index.html</link>
+            <guid isPermaLink="false">b5cd5520-67df-4681-b271-5b0bea0324f2</guid>
+            <pubDate>Mon, 11 Apr 2016 15:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girl]]></title>
+            <description><![CDATA[<article><h1>Girl</h1><p>Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, and that is easy to animate for all purposes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c563e692-55b3-47ce-a912-4aa2df9f4542.png"></article>]]></description>
+            <link>http://cocoknight.com/girl/index.html</link>
+            <guid isPermaLink="false">a826fbe4-f878-462a-ae12-4023bd5ed65e</guid>
+            <pubDate>Mon, 11 Apr 2016 15:22:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Handle for IKEA Kallax with custom text by cocoknight on Shapeways]]></title>
             <description><![CDATA[<article><h1>Handle for IKEA Kallax with custom text by cocoknight on Shapeways</h1><p>Handle for IKEA Kallax with custom embossed text printed just for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cc06fc10159defb37f796dd895495063211cfc3.jpg"></article>]]></description>
@@ -26,13 +40,6 @@
             <link>https://www.shapeways.com/product/RBMJM5MAS/oliver-birth-pendant?li=shareProduct</link>
             <guid isPermaLink="false">45052100-3f16-48c9-8e0c-f69b4999755a</guid>
             <pubDate>Fri, 08 Apr 2016 19:56:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CD Case Previsualisation]]></title>
-            <description><![CDATA[<article><h1>CD Case Previsualisation</h1><p>A previsualisation solution for CD designers which I made for Izaradesign with Blender.</p></article>]]></description>
-            <link>https://thegrid.ai/cocoknight/cd-case-previsualisation/index.html</link>
-            <guid isPermaLink="false">b5cd5520-67df-4681-b271-5b0bea0324f2</guid>
-            <pubDate>Fri, 08 Apr 2016 19:42:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Die Genossenschaft als idealer Nährboden]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=rgJn7GnguLQ</link>
             <guid isPermaLink="false">30203a1f-ebb4-4f17-9e50-9dbd6a6eabe3</guid>
             <pubDate>Fri, 08 Apr 2016 17:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vertrauen, das Jahr für Jahr wächst]]></title>
-            <description><![CDATA[<article><h1>Vertrauen, das Jahr für Jahr wächst</h1><p>For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b429ea8f3716b570772daf3f764aa3591b7f5a05.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=QjeyDRcQZMs&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">8307c38b-ec10-48d5-8119-b6da04c49870</guid>
-            <pubDate>Fri, 08 Apr 2016 17:34:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
