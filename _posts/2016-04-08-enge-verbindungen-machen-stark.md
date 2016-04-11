@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=l62H0wkjN-c&feature=youtu.be'
 inLanguage: de
 starred: false
 keywords: []
-description: 'Die Raiffeisen-Kunden tun der Schweiz einfach gut! 99 Prozent aller Zahlungen, die unsere Kunden über Raiffeisen tätigen, gehen an einen Empfänger im Inland, nur ein Prozent geht ins Ausland. Das zeigt, dass Ihr Geld praktisch nur hier im Umlauf ist, Sie vor allem in der Schweiz einkaufen und in erster Linie Schweizer KMU berücksichtigen.'
-datePublished: '2016-04-08T17:34:52.928Z'
-dateModified: '2016-04-08T09:06:52.075Z'
+description: For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:24:01.211Z'
+dateModified: '2016-04-11T14:51:11.819Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Enge Verbindungen machen stark
+sourcePath: _posts/2016-04-08-enge-verbindungen-machen-stark.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-08-enge-verbindungen-machen-stark.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
