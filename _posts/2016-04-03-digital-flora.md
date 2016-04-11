@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: '100% recyclable digital flora.Wash and water only with the purest digital 3D rain. (a.k.a. what if nature came with care instructions)'
-datePublished: '2016-04-05T09:47:12.931Z'
-dateModified: '2016-04-05T09:41:02.072Z'
+datePublished: '2016-04-11T15:23:18.238Z'
+dateModified: '2016-04-11T14:25:39.964Z'
 title: Digital Flora
 author: []
 sourcePath: _posts/2016-04-03-digital-flora.md
