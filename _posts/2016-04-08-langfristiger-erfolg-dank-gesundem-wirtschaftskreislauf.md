@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=MXVp2LDTFJM&feature=youtu.be'
 inLanguage: de
 starred: false
 keywords: []
-description: 'Zusammen mit unseren Kunden sorgen wir für einen gesunden lokalen Wirtschaftskreislauf. Jedes dritte Unternehmen in der Schweiz ist Raiffeisen-Kunde. Jede vierte Hypothek wird von uns vergeben; das entspricht betragsmässig einem Marktanteil von 16,3%. Und jeder fünfte Sparfranken liegt auf einer Raiffeisenbank.'
-datePublished: '2016-04-08T17:34:52.450Z'
-dateModified: '2016-04-08T09:07:19.863Z'
+description: For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:24:10.546Z'
+dateModified: '2016-04-11T14:50:45.452Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Langfristiger Erfolg dank gesundem Wirtschaftskreislauf
+sourcePath: _posts/2016-04-08-langfristiger-erfolg-dank-gesundem-wirtschaftskreislauf.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-08-langfristiger-erfolg-dank-gesundem-wirtschaftskreislauf.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
