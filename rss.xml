@@ -4,8 +4,15 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>http://cocoknight.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 15:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 15:42:42 GMT</lastBuildDate>
         <atom:link href="http://cocoknight.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Black Bird]]></title>
+            <description><![CDATA[<article><h1>Black Bird</h1><p>Game Asset demonstration</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b45f3b07555d981cf9a5deef3b9916c1c7f338f5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=lA-Z3Z57XRA&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">ddf93826-4925-4455-8ce1-320e78d4f1aa</guid>
+            <pubDate>Mon, 11 Apr 2016 15:42:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overdue - Animation of a CD case visualisation]]></title>
             <description><![CDATA[<article><h1>Overdue - Animation of a CD case visualisation</h1><p>Can your CD case do that kind of moves? :-)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5393af5b2cdaa02eeb9a327d422915bd3e0ac0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=l62H0wkjN-c&amp;feature=youtu.be</link>
             <guid isPermaLink="false">741e87c4-4459-4c68-989d-da9bebc5aaeb</guid>
             <pubDate>Mon, 11 Apr 2016 15:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raiffeisen Geschäftsbericht 2014]]></title>
-            <description><![CDATA[<article><h1>Raiffeisen Geschäftsbericht 2014</h1><p>For the Raiffeisen annual report 2014 by coUNDco I was responsible for creating the 3D art and 3D animations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/959b8bf05daa699b1fa8509994cd3438478a2845.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=5Br4tLow9qk&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">08897ec8-ccbf-4447-a1b8-8db44da5fdc5</guid>
-            <pubDate>Mon, 11 Apr 2016 15:23:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
