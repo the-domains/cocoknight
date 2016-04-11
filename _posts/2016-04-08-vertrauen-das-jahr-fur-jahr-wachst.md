@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=QjeyDRcQZMs&feature=youtu.be'
 inLanguage: de
 starred: false
 keywords: []
-description: 'Vertrauen und Treue sind zwei Begriffe, die eng miteinander verwandt sind. Das führen uns unsere Mitglieder mit jedem Jahr mehr vor Augen. Wie sie das tun? Durch eine Bindung, die bemerkenswert ist: 80 Prozent von ihnen schenken Raiffeisen seit mehr als zehn Jahren ihr Vertrauen, indem sie uns ihr Geld anvertrauen und eine Beziehung zu uns aufgebaut haben, der sie bis heute die Treue halten.'
-datePublished: '2016-04-08T17:34:52.990Z'
-dateModified: '2016-04-08T09:07:01.805Z'
+description: For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:24:05.823Z'
+dateModified: '2016-04-11T14:51:01.104Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: 'Vertrauen, das Jahr für Jahr wächst'
+sourcePath: _posts/2016-04-08-vertrauen-das-jahr-fur-jahr-wachst.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-08-vertrauen-das-jahr-fur-jahr-wachst.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
