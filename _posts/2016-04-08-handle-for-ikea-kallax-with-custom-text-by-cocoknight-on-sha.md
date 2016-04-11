@@ -16,9 +16,9 @@ keywords:
   - matte
   - beta
   - slight
-description: 'Handle for IKEA Kallax with custom text (FDTZ2T6WS) by cocoknight on Shapeways. Learn more before you buy, or discover other cool products in Accessories.'
-datePublished: '2016-04-08T20:28:06.586Z'
-dateModified: '2016-04-08T20:26:05.564Z'
+description: Handle for IKEA Kallax with custom embossed text printed just for you.
+datePublished: '2016-04-11T15:24:25.460Z'
+dateModified: '2016-04-11T14:48:37.847Z'
 author: []
 related: []
 app_links: []
