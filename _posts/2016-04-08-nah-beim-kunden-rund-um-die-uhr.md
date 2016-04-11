@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=iYdBRxp7uu8&feature=youtu.be'
 inLanguage: de
 starred: false
 keywords: []
-description: 'Nähe ist in der Beziehung zwischen einer Bank und ihren Kunden entscheidend. Denn sie schafft Vertrauen. Raiffeisen sorgt auf ganzer Linie für Nähe. Dadurch, dass sie das dichteste Bancomaten- und Geschäftsstellen-Netz der Schweiz hat, sind ihre Bankdienstleistungen in hohem Mass verfügbar.'
-datePublished: '2016-04-08T17:34:52.599Z'
-dateModified: '2016-04-08T09:07:25.169Z'
+description: For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.
+datePublished: '2016-04-11T15:24:14.928Z'
+dateModified: '2016-04-11T14:50:33.922Z'
 author:
   - name: Raiffeisen Schweiz Genossenschaft
     url: 'https://www.youtube.com/user/RaiffeisenSchweiz'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Nah beim Kunden -- Rund um die Uhr
+sourcePath: _posts/2016-04-08-nah-beim-kunden-rund-um-die-uhr.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-08-nah-beim-kunden-rund-um-die-uhr.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
