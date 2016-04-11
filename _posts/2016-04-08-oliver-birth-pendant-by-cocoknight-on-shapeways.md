@@ -16,9 +16,9 @@ keywords:
   - solid
   - silver
   - texture
-description: 'Oliver Birth Pendant (RBMJM5MAS) by cocoknight on Shapeways. Learn more before you buy, or discover other cool products in Pendants.'
-datePublished: '2016-04-08T19:56:03.193Z'
-dateModified: '2016-04-08T19:55:32.773Z'
+description: Oliver Birth Pendant by cocoknight on Shapeways.
+datePublished: '2016-04-11T15:24:22.387Z'
+dateModified: '2016-04-11T14:48:54.523Z'
 author: []
 related: []
 app_links: []
