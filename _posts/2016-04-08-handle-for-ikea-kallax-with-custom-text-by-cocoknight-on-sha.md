@@ -17,8 +17,8 @@ keywords:
   - beta
   - slight
 description: Personalise your IKEA Kallax Shelf with this custom handle decoration for your drawer or door insets. This decoration is designed to click in place on the cylindrical handles of IKEA Kallax drawer or door insets.
-datePublished: '2016-04-16T14:03:27.185Z'
-dateModified: '2016-04-16T14:02:58.586Z'
+datePublished: '2016-04-16T14:08:18.509Z'
+dateModified: '2016-04-16T14:07:54.517Z'
 author: []
 related: []
 app_links: []
