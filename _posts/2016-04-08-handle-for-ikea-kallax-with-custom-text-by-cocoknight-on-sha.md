@@ -16,9 +16,9 @@ keywords:
   - matte
   - beta
   - slight
-description: Handle for IKEA Kallax with custom embossed text printed just for you.
-datePublished: '2016-04-11T15:24:25.460Z'
-dateModified: '2016-04-11T14:48:37.847Z'
+description: Personalise your IKEA Kallax Shelf with this custom handle decoration for your drawer or door insets. This decoration is designed to click in place on the cylindrical handles of IKEA Kallax drawer or door insets.
+datePublished: '2016-04-16T13:48:21.417Z'
+dateModified: '2016-04-16T13:48:21.112Z'
 author: []
 related: []
 app_links: []
