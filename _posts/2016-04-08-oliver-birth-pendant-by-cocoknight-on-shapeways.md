@@ -17,8 +17,8 @@ keywords:
   - silver
   - texture
 description: "The perfect gift if your newborn's name is Oliver."
-datePublished: '2016-04-16T13:48:23.823Z'
-dateModified: '2016-04-16T13:48:23.281Z'
+datePublished: '2016-04-16T14:03:29.719Z'
+dateModified: '2016-04-16T14:03:18.895Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Oliver Birth Pendant by cocoknight on Shapeways</h1><p>Oliver Birth Pendant by cocoknight on Shapeways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b65238a732d2e514d09c74ec8efc6b6764a3d2b.jpg" /></article>
+<article style=""><h1>Oliver Birth Pendant by cocoknight on Shapeways</h1><p>The perfect gift if your newborn's name is Oliver.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b65238a732d2e514d09c74ec8efc6b6764a3d2b.jpg" /></article>
