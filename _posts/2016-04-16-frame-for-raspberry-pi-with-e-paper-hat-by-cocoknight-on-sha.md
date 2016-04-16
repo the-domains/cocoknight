@@ -17,22 +17,22 @@ keywords:
   - grainy
   - matte
 description: Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways.
-datePublished: '2016-04-16T13:26:23.059Z'
-dateModified: '2016-04-16T13:26:22.447Z'
+datePublished: '2016-04-16T13:44:02.557Z'
+dateModified: '2016-04-16T13:43:49.079Z'
 author: []
 related: []
 app_links: []
 title: Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways
+sourcePath: _posts/2016-04-16-frame-for-raspberry-pi-with-e-paper-hat-by-cocoknight-on-sha.md
+published: true
 authors: []
 publisher:
   name: Shapeways.com
   domain: www.shapeways.com
   url: 'http://www.shapeways.com'
   favicon: 'http://static1.sw-cdn.net/favicon.ico?tag=2016041501'
-sourcePath: _posts/2016-04-16-frame-for-raspberry-pi-with-e-paper-hat-by-cocoknight-on-sha.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways</h1><p>Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways</p><img src="http://images3.sw-cdn.net/product/picture/674x501_13978503_8496343_1460811478.jpg" /></article>
+<article style=""><h1>Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways</h1><p>Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/724bd4308a6692262e31f1c9531a92b1e5a3ba50.jpg" /></article>
