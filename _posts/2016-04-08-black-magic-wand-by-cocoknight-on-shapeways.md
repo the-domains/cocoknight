@@ -17,8 +17,8 @@ keywords:
   - finish
   - feel
 description: An elegant magic wand for the experienced black magic adept.
-datePublished: '2016-04-16T13:45:02.252Z'
-dateModified: '2016-04-16T13:44:55.209Z'
+datePublished: '2016-04-16T14:03:25.181Z'
+dateModified: '2016-04-16T14:02:16.980Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Black Magic Wand by cocoknight on Shapeways</h1><p>Black Magic Wand by cocoknight on Shapeways. Now with custom initial engraving.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a508448d6a0978aab9f89771b0617384ed0e4221.jpg" /></article>
+<article style=""><h1>Black Magic Wand by cocoknight on Shapeways</h1><p>An elegant magic wand for the experienced black magic adept.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a508448d6a0978aab9f89771b0617384ed0e4221.jpg" /></article>
