@@ -16,9 +16,9 @@ keywords:
   - matte
   - finish
   - feel
-description: Black Magic Wand by cocoknight on Shapeways. Now with custom initial engraving.
-datePublished: '2016-04-11T15:24:27.923Z'
-dateModified: '2016-04-11T14:49:32.484Z'
+description: An elegant magic wand for the experienced black magic adept.
+datePublished: '2016-04-16T13:45:02.252Z'
+dateModified: '2016-04-16T13:44:55.209Z'
 author: []
 related: []
 app_links: []
