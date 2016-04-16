@@ -16,9 +16,9 @@ keywords:
   - polished
   - grainy
   - matte
-description: Frame for Raspberry Pi with E-paper HAT by cocoknight on Shapeways.
-datePublished: '2016-04-16T13:44:02.557Z'
-dateModified: '2016-04-16T13:43:49.079Z'
+description: This frame is designed to click in place on top of the E-paper Display HAT for Raspberry Pi. Hang your Pi to the wall or simply put it on a table or shelf. Your Pi deserves some attention. This simple yet elegant frame will transform your Pi into an elegant decoration for your home.
+datePublished: '2016-04-16T13:48:18.106Z'
+dateModified: '2016-04-16T13:48:17.676Z'
 author: []
 related: []
 app_links: []
