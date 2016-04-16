@@ -16,9 +16,9 @@ keywords:
   - solid
   - silver
   - texture
-description: Oliver Birth Pendant by cocoknight on Shapeways.
-datePublished: '2016-04-11T15:24:22.387Z'
-dateModified: '2016-04-11T14:48:54.523Z'
+description: "The perfect gift if your newborn's name is Oliver."
+datePublished: '2016-04-16T13:48:23.823Z'
+dateModified: '2016-04-16T13:48:23.281Z'
 author: []
 related: []
 app_links: []
