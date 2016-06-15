@@ -1,26 +1,30 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=J-a06GLSpIU&feature=youtu.be'
+inLanguage: null
+keywords: []
+description: >-
+  Marketing film that explains the processes involved in coordinating supply
+  shippments.
+datePublished: '2016-06-15T09:42:10.944Z'
+dateModified: '2016-06-15T09:34:39.345Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: Marketing film that explains the processes involved in coordinating
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=J-a06GLSpIU&feature=youtu.be'
 title: Shipping - Animated Infographic
-datePublished: '2016-06-15T09:10:52.268Z'
-dateModified: '2016-06-15T09:09:54.075Z'
-starred: false
 sourcePath: _posts/2016-06-15-shipping-animated-infographic.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
