@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
 inLanguage: null
 keywords: []
-description: This ad was aired on the Stade de Suisse soccer stadium
-datePublished: '2016-07-05T15:54:24.213Z'
-dateModified: '2016-07-05T15:53:38.065Z'
+description: This ad was aired on the big screen at the Stade de Suisse soccer stadium
+datePublished: '2016-07-05T16:02:28.459Z'
+dateModified: '2016-07-05T16:02:24.179Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
