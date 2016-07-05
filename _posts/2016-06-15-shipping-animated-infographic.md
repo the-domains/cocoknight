@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Marketing film that explains the processes involved in coordinating supply
   shippments.
-datePublished: '2016-06-15T09:42:10.944Z'
-dateModified: '2016-06-15T09:34:39.345Z'
+datePublished: '2016-07-05T16:00:29.051Z'
+dateModified: '2016-07-05T15:53:47.799Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
