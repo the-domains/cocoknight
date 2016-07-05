@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
+inLanguage: null
+keywords: []
+description: This ad was aired on the Stade de Suisse soccer stadium
+datePublished: '2016-07-05T15:54:24.213Z'
+dateModified: '2016-07-05T15:53:38.065Z'
 author:
   - name: Fabian Hernandez
     url: 'https://www.youtube.com/user/cocoknightcom'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: This ad was aired on the Stade de Suisse soccer stadium
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
 title: Stadium Bigscreen Ad
-datePublished: '2016-06-15T09:11:31.116Z'
-dateModified: '2016-06-15T09:10:28.261Z'
-starred: false
 sourcePath: _posts/2016-06-15-stadium-bigscreen-ad.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
