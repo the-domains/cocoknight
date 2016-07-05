@@ -1,14 +1,9 @@
 ---
-author:
-  - name: gustofestival
-    url: 'https://www.youtube.com/channel/UC7V5FRXkl3w440087Jz_bCQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=54dVh-BFdx4'
+inLanguage: de
 keywords: []
 description: >-
   Feuer, Wasser, Erde und Wind. Die vier Elemente prägen seit Jahrtausenden das
@@ -17,7 +12,13 @@ description: >-
   Zeichen dieser 4 Elemente. Die Gourmet-Events in den verschiedenen
   Spitzen-Restaurants werden in Zusammenarbeit mit Top-Gastköchen aus
   Argentinien durchgeführt.
-inLanguage: de
+datePublished: '2016-07-05T15:54:27.702Z'
+dateModified: '2016-07-05T15:53:23.680Z'
+author:
+  - name: gustofestival
+    url: 'https://www.youtube.com/channel/UC7V5FRXkl3w440087Jz_bCQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=54dVh-BFdx4&feature=applinks'
     type: ios
@@ -55,15 +56,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=54dVh-BFdx4'
 title: Gustofestival Patagonian Cuisine 2016
-datePublished: '2016-07-05T14:12:26.744Z'
-dateModified: '2016-07-05T14:09:50.592Z'
-starred: false
 sourcePath: _posts/2016-07-05-gustofestival-patagonian-cuisine-2016.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
