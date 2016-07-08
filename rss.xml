@@ -4,8 +4,15 @@
         <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
         <link>http://cocoknight.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 22:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 22:27:38 GMT</lastBuildDate>
         <atom:link href="http://cocoknight.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CD Previs]]></title>
+            <description><![CDATA[<article><h1>CD Previs</h1><p>A previsualisation solution for CD designers which I made for Izaradesign with Blender.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f078ed2b96465e05d6212b6437c583421b5dbee3.png"></article>]]></description>
+            <link>http://cocoknight.com/cd-case-previsualisation/index.html</link>
+            <guid isPermaLink="false">b5cd5520-67df-4681-b271-5b0bea0324f2</guid>
+            <pubDate>Fri, 08 Jul 2016 22:27:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gustofestival Patagonian Cuisine 2016]]></title>
             <description><![CDATA[<article><h1>Gustofestival Patagonian Cuisine 2016</h1><p>Feuer, Wasser, Erde und Wind. Die vier Elemente prägen seit Jahrtausenden das Land und die Menschen und damit auch das Essen in Patagonien. Das Gustofestival® "Patagonian Cuisine" Solothurn & Olten 2016 steht ganz im Zeichen dieser 4 Elemente. Die Gourmet-Events in den verschiedenen Spitzen-Restaurants werden in Zusammenarbeit mit Top-Gastköchen aus Argentinien durchgeführt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/47835c047b3258acbe79b7b1564cd048/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2F54dVh-BFdx4%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://cocoknight.com/girl/index.html</link>
             <guid isPermaLink="false">a826fbe4-f878-462a-ae12-4023bd5ed65e</guid>
             <pubDate>Fri, 08 Jul 2016 21:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Enge Verbindungen machen stark]]></title>
-            <description><![CDATA[<article><h1>Enge Verbindungen machen stark</h1><p>For the Raiffeisen annual report 2013 by coUNDco I was responsible for creating the 3D art and 3D animations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc324f63f542bf36c85086219759d44c668953e0.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=l62H0wkjN-c&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">741e87c4-4459-4c68-989d-da9bebc5aaeb</guid>
-            <pubDate>Fri, 08 Jul 2016 21:53:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
