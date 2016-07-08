@@ -1,20 +1,4 @@
-name: coCoKNIght
-favicon: null
-layout_spectrum: 0.7482
 typography_spectrum: 0.78283
-title: coCoKNIght.com - Online Portfolio of Fabian Hernandez
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-76140371-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7482
+analytics:
+  google: UA-76140371-1
+  facebook: null
+  twitter: null
+author:
+  name: Fabian Hernandez
+  email: contact@cocoknight.com
+  url: 'http://cocoknight.com'
+name: coCoKNIght
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: coCoKNIght.com - Online Portfolio of Fabian Hernandez
 purpose: []
