@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.5
 opengraph:
   image: null
-  type: null
+  type: article
   appId: '1746305305611452'
 layout_spectrum: 0.7482
 analytics:
