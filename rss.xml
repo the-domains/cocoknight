@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></title>
-        <description><![CDATA[coCoKNIght.com - Online Portfolio of Fabian Hernandez]]></description>
+        <title><![CDATA[coCoKNIght.com]]></title>
+        <description><![CDATA[coCoKNIght.com]]></description>
         <link>http://cocoknight.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 06:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:55:24 GMT</lastBuildDate>
         <atom:link href="http://cocoknight.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[troll]]></title>
+            <description><![CDATA[<article><h1>troll</h1><p>3D game asset demonstration</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d024099b5bf7995342e818547f93bd58fe7e15c3.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MgMFVkz1_O4</link>
+            <guid isPermaLink="false">8d9f2623-98ff-4bae-9150-206e55fdedfc</guid>
+            <pubDate>Wed, 17 Aug 2016 15:55:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Girl]]></title>
             <description><![CDATA[<article><h1>Girl</h1><p>Creating a beautiful and fully animate-able 3D girl offers many challenges, and as technology progresses, so does she too. But my goal is not to make her photo-realistic. I'm more interested in creating a character that does not require different versions for different kinds of shots, and that is easy to animate for all purposes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c563e692-55b3-47ce-a912-4aa2df9f4542.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.shapeways.com/product/RBMJM5MAS/oliver-birth-pendant?li=shareProduct</link>
             <guid isPermaLink="false">45052100-3f16-48c9-8e0c-f69b4999755a</guid>
             <pubDate>Fri, 08 Jul 2016 21:53:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[minsavist Alpha Gameplay]]></title>
-            <description><![CDATA[<article><h1>minsavist Alpha Gameplay</h1><p>Gamaplay of the alpha version of minsavist (working title), a game for mobile devices.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e0dc7b617e752088ac1d183c5f8926a43c5eac3.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=rgJn7GnguLQ</link>
-            <guid isPermaLink="false">30203a1f-ebb4-4f17-9e50-9dbd6a6eabe3</guid>
-            <pubDate>Fri, 08 Jul 2016 21:53:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
