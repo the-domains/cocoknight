@@ -1,49 +1,17 @@
 ---
-id: a826fbe4-f878-462a-ae12-4023bd5ed65e
-metadata:
-  id: a826fbe4-f878-462a-ae12-4023bd5ed65e
-  metadata:
-    datePublished: '2016-07-09T06:05:46.414Z'
-    sourcePath: >-
-      _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
-    inFeed: true
-    isBasedOnUrl: ''
-    authors: []
-    hasPage: true
-    keywords: []
-    author:
-      - name: Fabian Hernandez
-        url: 'http://cocoknight.com'
-    dateModified: '2016-07-09T06:05:46.414Z'
-    title: Girl
-    publisher: null
-    description: >-
-      Creating a beautiful and fully animate-able 3D girl offers many
-      challenges, and as technology progresses, so does she too. But my goal is
-      not to make her photo-realistic. I'm more interested in creating a
-      character that does not require different versions for different kinds of
-      shots, and that is easy to animate for all purposes.
-    inLanguage: null
-    inNav: false
-  dateModified: '2016-08-17T15:48:49.116Z'
-dateModified: '2016-08-17T16:06:03.786Z'
+isBasedOnUrl: ''
 title: Girl
-datePublished: '2016-08-17T16:09:18.004Z'
+datePublished: '2016-08-19T20:10:37.764Z'
+dateModified: '2016-08-19T19:54:23.913Z'
 author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
-isBasedOnUrl: ''
-sourcePath: >-
-  _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
-description: >-
-  Creating a beautiful and fully animate-able 3D girl offers many challenges,
-  and as technology progresses, so does she too. But my goal is not to make her
-  photo-realistic. I'm more interested in creating a character that does not
-  require different versions for different kinds of shots, and that is easy to
-  animate for all purposes.
+description: Toonish 3D render of a woman in a swimsuit
 publisher: {}
 via: {}
 starred: false
+sourcePath: >-
+  _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
 inFeed: true
 hasPage: false
 inNav: false
