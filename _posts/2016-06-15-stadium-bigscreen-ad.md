@@ -1,55 +1,23 @@
 ---
-id: c2708027-cf85-487f-a3df-1e66decef483
-metadata:
-  id: c2708027-cf85-487f-a3df-1e66decef483
-  metadata:
-    inFeed: true
-    hasPage: false
-    inNav: false
-    isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
-    inLanguage: null
-    keywords: []
-    description: This ad was aired on the big screen at the Stade de Suisse soccer stadium
-    datePublished: '2016-07-08T22:15:16.031Z'
-    dateModified: '2016-07-08T22:15:16.031Z'
-    author:
-      - name: Fabian Hernandez
-        url: 'https://www.youtube.com/user/cocoknightcom'
-        avatar: {}
-    related: []
-    '@type': VideoObject
-    app_links: []
-    '@context': 'http://schema.org'
-    title: Stadium Bigscreen Ad
-    sourcePath: _posts/2016-06-15-stadium-bigscreen-ad.md
-    authors: []
-    publisher:
-      name: YouTube
-      domain: www.youtube.com
-      url: 'https://www.youtube.com/'
-      favicon: 'https://www.youtube.com/favicon.ico'
-  dateModified: '2016-08-17T16:06:03.786Z'
-  title: Stadium Bigscreen Ad
-  datePublished: null
-  author:
-    - name: Fabian Hernandez
-      url: 'https://www.youtube.com/user/cocoknightcom'
-      avatar: {}
-  isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
-  sourcePath: _posts/2016-06-15-stadium-bigscreen-ad.md
-  description: This ad was aired on the big screen at the Stade de Suisse soccer stadium
-  publisher:
-    name: YouTube
-    domain: www.youtube.com
-    url: 'https://www.youtube.com/'
-    favicon: 'https://www.youtube.com/favicon.ico'
-  via: {}
-dateModified: '2016-08-17T16:06:33.714Z'
-starred: false
-title: ''
-datePublished: '2016-08-17T16:09:16.748Z'
-author: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=gD0WluzJSzE&feature=youtu.be'
+title: Stadium Bigscreen Ad
+datePublished: '2016-08-19T19:46:33.888Z'
+dateModified: '2016-08-19T19:46:26.111Z'
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+author:
+  - name: Fabian Hernandez
+    url: 'https://www.youtube.com/user/cocoknightcom'
+    avatar: {}
+description: >-
+  This ad by coUNDco was aired on the big screen at the Stade de Suisse soccer
+  stadium and was acompanied by similar ads for other screens. for this project
+  I was responsible for the motion design.
+via: {}
+starred: false
 sourcePath: _posts/2016-06-15-stadium-bigscreen-ad.md
 inFeed: true
 hasPage: false
