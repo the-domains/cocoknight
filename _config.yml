@@ -1,21 +1,23 @@
-typography_spectrum: 0.6181269127409905
+layout_spectrum: 0.14282451570034027
+typography_spectrum: 0.22541197179816663
 color:
   brandColors:
-    - '#ffffff'
-    - '#d77438'
-    - '#212122'
-    - '#626262'
-    - '#bebebe'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+  brandStrength: 0.05236685136333108
+  lightness: 0.9849079868290573
+  saturation: 0.649585108505562
+  rhythmicContrast: 0.23278583493083715
+coverPrefs:
+  filter: false
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/df9869a3-79d7-48a0-afa7-958d1e6313f9.png
   type: article
   appId: '1746305305611452'
-layout_spectrum: 0.7482
 analytics:
   google: UA-76140371-1
   facebook: '901001630029147'
