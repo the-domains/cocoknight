@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'https://www.youtube.com/watch?v=54dVh-BFdx4'
 title: Gustofestival Patagonian Cuisine 2016
-datePublished: '2016-08-19T19:36:11.722Z'
-dateModified: '2016-08-19T19:35:53.210Z'
+datePublished: '2016-08-19T19:39:58.812Z'
+dateModified: '2016-08-19T19:39:54.199Z'
 publisher:
   name: YouTube
   domain: www.youtube.com
@@ -14,7 +14,7 @@ author:
     avatar: {}
 description: >-
   For Gustofestival's Event ID by coUNDco I created this video and the 3D intro
-  animation of the logo
+  animation of the logo.
 via: {}
 starred: false
 sourcePath: _posts/2016-07-05-gustofestival-patagonian-cuisine-2016.md
