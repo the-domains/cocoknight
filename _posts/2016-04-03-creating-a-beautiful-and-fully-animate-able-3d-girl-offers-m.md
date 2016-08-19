@@ -1,21 +1,19 @@
 ---
-isBasedOnUrl: ''
-title: Girl
-datePublished: '2016-08-19T20:10:37.764Z'
-dateModified: '2016-08-19T19:54:23.913Z'
-author:
-  - name: Fabian Hernandez
-    url: 'http://cocoknight.com'
-description: Toonish 3D render of a woman in a swimsuit
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-19T20:29:35.665Z'
 sourcePath: >-
   _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+isBasedOnUrl: ''
+author:
+  - name: Fabian Hernandez
+    url: 'http://cocoknight.com'
+via: {}
+dateModified: '2016-08-19T20:29:34.859Z'
+title: Girl
+publisher: {}
+description: Toonish 3D render of a woman in a swimsuit
+starred: false
+_type: Blurb
 
 ---
 # Girl
