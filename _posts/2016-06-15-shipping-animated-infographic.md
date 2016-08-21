@@ -1,23 +1,23 @@
 ---
+datePublished: '2016-08-21T09:15:33.598Z'
+sourcePath: _posts/2016-06-15-shipping-animated-infographic.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=J-a06GLSpIU&feature=youtu.be'
+author:
+  - name: Fabian Hernandez
+    url: 'https://www.youtube.com/user/cocoknightcom'
+    avatar: {}
+via: {}
+dateModified: '2016-08-21T09:15:33.010Z'
 title: Shipping - Animated Infographic
-datePublished: '2016-08-19T19:48:51.684Z'
-dateModified: '2016-08-19T19:48:41.142Z'
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-author:
-  - name: Fabian Hernandez
-    url: 'https://www.youtube.com/user/cocoknightcom'
-    avatar: {}
 description: >-
   Marketing film that explains the processes involved in coordinating supply
   shippments. For this project by coUNDco I created the final 3D animation.
-via: {}
 starred: false
-sourcePath: _posts/2016-06-15-shipping-animated-infographic.md
 inFeed: true
 hasPage: false
 inNav: false
