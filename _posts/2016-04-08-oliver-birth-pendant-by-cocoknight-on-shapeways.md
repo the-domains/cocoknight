@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T17:31:09.628Z'
+datePublished: '2016-08-21T09:16:42.373Z'
 sourcePath: _posts/2016-04-08-oliver-birth-pendant-by-cocoknight-on-shapeways.md
 isBasedOnUrl: >-
   https://www.shapeways.com/product/RBMJM5MAS/oliver-birth-pendant?li=shareProduct
@@ -64,7 +64,7 @@ metadata:
     url: 'http://www.shapeways.com'
     favicon: 'http://static1.sw-cdn.net/favicon.ico?tag=2016040701'
   description: The perfect gift if your newborn's name is Oliver.
-dateModified: '2016-08-17T17:31:09.069Z'
+dateModified: '2016-08-21T09:16:41.804Z'
 title: Oliver Birth Pendant by cocoknight on Shapeways
 id: 45052100-3f16-48c9-8e0c-f69b4999755a
 publisher:
