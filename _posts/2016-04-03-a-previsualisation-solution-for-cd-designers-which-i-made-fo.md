@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-19T20:40:15.806Z'
+datePublished: '2016-08-21T20:29:10.041Z'
 sourcePath: >-
   _posts/2016-04-03-a-previsualisation-solution-for-cd-designers-which-i-made-fo.md
 inFeed: true
-isBasedOnUrl: ''
-hasPage: false
+hasPage: true
 author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
 via: {}
-dateModified: '2016-08-19T20:40:15.137Z'
+dateModified: '2016-08-21T20:29:09.479Z'
 title: CD Design Previz Solution
 publisher: {}
 description: CD-case previsualisation 3D render
 starred: false
-_type: Blurb
+url: cd-design-previz-solution/index.html
+_type: Article
 
 ---
 # CD Design Previz Solution
