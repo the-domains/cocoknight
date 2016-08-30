@@ -1,4 +1,3 @@
-layout_spectrum: 0.14282451570034027
 typography_spectrum: 0.22541197179816663
 color:
   brandColors:
@@ -11,13 +10,12 @@ color:
   lightness: 0.9849079868290573
   saturation: 0.649585108505562
   rhythmicContrast: 0.23278583493083715
-coverPrefs:
-  filter: false
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/df9869a3-79d7-48a0-afa7-958d1e6313f9.png
   type: article
   appId: '1746305305611452'
+layout_spectrum: 0.14282451570034027
 analytics:
   google: UA-76140371-1
   facebook: '901001630029147'
@@ -28,13 +26,15 @@ author:
   url: 'http://cocoknight.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/748d06f0-48fd-43ef-be4e-c9881d907a7a.svg
-name: coCoKNIght
+name: coCoKNIght.com
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/998254e3-75c9-4dbc-8adb-8d6e8d390cd5.ico
-title: coCoKNIght.com
+title: Online Portfolio of Fabian Hernandez
+coverPrefs:
+  filter: false
 description: Online Portfolio of Fabian Hernandez
 purpose: []
