@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T19:36:45.525Z'
+datePublished: '2016-08-28T19:49:26.527Z'
 sourcePath: >-
   _posts/2016-04-03-creating-a-beautiful-and-fully-animate-able-3d-girl-offers-m.md
 inFeed: true
@@ -8,7 +8,7 @@ author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
 via: {}
-dateModified: '2016-08-28T19:36:44.905Z'
+dateModified: '2016-08-28T19:49:25.458Z'
 title: Girl
 publisher: {}
 description: >-
