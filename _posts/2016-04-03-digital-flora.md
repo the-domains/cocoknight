@@ -1,8 +1,8 @@
 ---
 id: 309e3d0d-cfc2-464e-97dd-03b4454405b7
-dateModified: '2016-08-31T14:00:35.655Z'
+dateModified: '2016-08-31T14:00:51.618Z'
 title: Digital Flora
-datePublished: '2016-08-31T14:00:36.276Z'
+datePublished: '2016-08-31T14:00:52.523Z'
 author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
@@ -13,7 +13,7 @@ description: >-
 publisher: {}
 via: {}
 sourcePath: _posts/2016-04-03-digital-flora.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
