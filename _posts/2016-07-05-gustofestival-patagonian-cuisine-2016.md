@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T09:14:31.409Z'
+datePublished: '2016-08-31T14:05:12.680Z'
 sourcePath: _posts/2016-07-05-gustofestival-patagonian-cuisine-2016.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=54dVh-BFdx4'
 author:
@@ -7,16 +7,16 @@ author:
     url: 'https://www.youtube.com/channel/UC7V5FRXkl3w440087Jz_bCQ'
     avatar: {}
 via: {}
-dateModified: '2016-08-21T09:14:30.738Z'
-title: Gustofestival Patagonian Cuisine 2016
+dateModified: '2016-08-31T14:05:11.927Z'
+title: Patagonian Cuisine 2016
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 description: >-
-  For Gustofestival's Event ID by coUNDco I created this video and the 3D intro
-  animation of the logo.
+  As part of Gustofestival's Event ID by coUNDco I created this video and the 3D
+  intro animation of the logo.
 starred: false
 inFeed: true
 hasPage: false
