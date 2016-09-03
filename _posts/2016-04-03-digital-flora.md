@@ -1,8 +1,8 @@
 ---
 id: 309e3d0d-cfc2-464e-97dd-03b4454405b7
-dateModified: '2016-08-31T13:59:47.463Z'
+dateModified: '2016-08-31T14:00:04.192Z'
 title: Digital Flora
-datePublished: '2016-08-31T13:59:47.945Z'
+datePublished: '2016-08-31T14:00:05.143Z'
 author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
@@ -12,8 +12,8 @@ description: >-
   rain. (a.k.a. what if nature came with care instructions)
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-04-03-digital-flora.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
