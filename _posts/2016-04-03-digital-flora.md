@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-31T14:18:31.804Z'
-sourcePath: _posts/2016-04-03-digital-flora.md
-isBasedOnUrl: ''
+id: 309e3d0d-cfc2-464e-97dd-03b4454405b7
+dateModified: '2016-08-31T14:21:48.913Z'
+title: Digital Flora
+datePublished: '2016-08-31T14:21:49.501Z'
 author:
   - name: Fabian Hernandez
     url: 'http://cocoknight.com'
-via: {}
-dateModified: '2016-08-31T14:17:19.370Z'
-title: Digital Flora
-id: 309e3d0d-cfc2-464e-97dd-03b4454405b7
-publisher: {}
+isBasedOnUrl: ''
 description: >-
-  100% recyclable digital flora.Wash and water only with the purest digital 3D
+  100% recyclable digital flora. Wash and water only with the purest digital 3D
   rain.
+publisher: {}
+via: {}
 starred: true
+sourcePath: _posts/2016-04-03-digital-flora.md
 inFeed: true
 hasPage: false
 inNav: false
